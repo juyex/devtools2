@@ -1,3 +1,6 @@
 [submodule "Lab"]
 	path = Lab
 	url = https://github.com/juyeex/Lab.git
+[submodule "labb"]
+	path = labb
+	url = https://github.com/juyex/labb
